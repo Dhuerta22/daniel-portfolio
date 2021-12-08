@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title]
-<img src="images/galaxycat?raw=true"/>
+<img src="images/galaxycat.jpg?raw=true"/>
 
 ---
 
