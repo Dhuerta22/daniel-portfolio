@@ -5,7 +5,7 @@
 ### My creative Work 
 
 [Project 1 Title]
-<img src="Untitled.png?raw=true"/>
+<img src="waterpicture.png?raw=true"/>
 
 ---
 [Project 2 Title]
