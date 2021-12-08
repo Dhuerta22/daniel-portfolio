@@ -5,11 +5,11 @@
 ### My creative Work 
 
 [Project 1 Title]
-<img src="Untitled.pngraw=true"/>
+<img src="Untitled.png?raw=true"/>
 
 ---
 [Project 2 Title]
-<img src="images_q=tbn_ANd9GcQNBbpVflp9l_LFi4z2TxeLDBrs_tjFoi61YQ&usqp=CAU.jpg"/>
+<img src="images_q=tbn_ANd9GcQNBbpVflp9l_LFi4z2TxeLDBrs_tjFoi61YQ&usqp=CAU.jpg?raw=true"/>
 
 ---
 [Project 3 Title]
