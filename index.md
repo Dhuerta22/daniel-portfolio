@@ -18,7 +18,7 @@
 ---
 
 [Project 4 Title]
-<img src="images/?raw=true"/>
+<img src="images/gt500.jpg?raw=true"/>
 
 ---
 
