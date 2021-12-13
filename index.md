@@ -17,6 +17,11 @@
 
 ---
 
+[Project 4 Title]
+<img src="images/?raw=true"/>
+
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
