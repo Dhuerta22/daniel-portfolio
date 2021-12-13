@@ -22,10 +22,14 @@
 
 ---
 
-[Project  Title]
+[Project 5 Title]
 <img src="images/usc.png?raw=true"/>
 
 ---
+
+[Project 6 Title]
+<img src="images/world.jpg?raw=true"/>
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
