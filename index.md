@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title]
-<img src="images/galaxycat.jpg?raw=true"/>
+<img src="images/galaxy.jpg?raw=true"/>
 
 ---
 
@@ -21,6 +21,10 @@
 <img src="images/gt500.jpg?raw=true"/>
 
 ---
+
+[Project  Title]
+<img src="images/usc.jpg?raw=true"/>
+
 
 ### Category Name 2
 
