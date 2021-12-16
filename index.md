@@ -33,7 +33,7 @@
 ---
 
 [Project 6 Title]
-<img src="images/gt500.jpg?raw=true"/>
+<img src="images/Untitled.jpg?raw=true"/>
 
 
 
